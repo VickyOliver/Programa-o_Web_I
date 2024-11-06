@@ -1,1 +1,2 @@
-# Programa-o_Web_I
+# Programacao_Web_I
+repositório criado para postar os exercícios de programação web I
